@@ -1,1 +1,1 @@
-# This project aims to re create the airbnb website
+# This repo contains the Airbnb console for the Airbnb project
